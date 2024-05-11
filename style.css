@@ -1,0 +1,30 @@
+body{
+    font-size: 24px;
+    background-color: rgb(210, 210, 207);
+    text-align: center;
+}
+p{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+table {
+    background-color: rgb(190, 185, 185);
+    border: 2px solid black;
+    margin-left: auto;
+     margin-right: auto;
+}
+td {
+  border: 2px solid black;  
+}
+nav a{
+    color: black;
+    font-size: 30px;
+    margin-left:10px;
+     margin-right:10px;
+    border: 2px solid black;
+    padding: 10px;
+    text-decoration: none;
+
+}
